@@ -16,9 +16,9 @@ Data was sourced from the [Bureau of Transportation Statistics](https://www.tran
 
 ## 📂 Project Structure
 AirTraffic-SQL-Analysis/
-├── AirTraffic_Analysis.sql # Fully commented SQL script (main deliverable)
+├── [AirTraffic_Analysis](Anish_Karnik_Unit1Deliverable.sql).sql # Fully commented SQL script (main deliverable)
 ├── README.md # Project documentation (this file)
-├── Results_Summary.md # Key business insights 
+├── [Results_Summary.md](ResultsSummary.md) # Key business insights 
 ├── images/ # Visuals & charts
 └── AirTraffic_ERD.png # Database schema diagram 
 
@@ -85,7 +85,7 @@ Two main tables were used:
 ---
 
 ## ⚙️ How to Run the Project
-1. Download the cleaned dataset provided by BrainStation.  
+1. Download the cleaned dataset provided [under data](data).  
 2. Import into MySQL Workbench:  
    - `Server > Data Import` → Select "Import from Self-Contained File".  
    - Set default schema as **AirTraffic**.  
@@ -99,8 +99,6 @@ Two main tables were used:
 ## 📌 Tech Stack
 - **MySQL Workbench** (SQL analysis)  
 - **GitHub** (version control & portfolio showcase)  
-- *(Optional)* Python/Excel/Power BI for visualizations  
-
 ---
 
 ## 📄 License
