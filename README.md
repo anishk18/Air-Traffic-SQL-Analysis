@@ -1,8 +1,7 @@
-# Air-Traffic-SQL-Analysis-
-SQL-based data analysis of U.S. airline performance (2018–2019) to generate investment insights for BrainStation Mutual Fund managers.
-
 
 # Air Traffic SQL Analysis ✈️
+SQL-based data analysis of U.S. airline performance (2018–2019) to generate investment insights for Mutual Fund managers.
+
 
 ## 📌 Project Overview
 This project analyzes U.S. airline flight data (2018–2019) to support investment decisions for the **BrainStation Mutual Fund**.  
@@ -19,7 +18,8 @@ AirTraffic-SQL-Analysis/
 - [SQL file](AirTrafficAnalysis.sql) # Fully commented SQL script (main deliverable)
 - [README.md](README.md) # Project documentation (this file)
 - [Results_Summary.md](ResultsSummary.md) # Key business insights 
--  AirTraffic_ERD.png # Database schema diagram 
+-  [AirTraffic_ERD.png](ERD.md) # Database schema diagram 
+- 
 
 
 
@@ -89,9 +89,9 @@ Two main tables were used:
    - `Server > Data Import` → Select "Import from Self-Contained File".  
    - Set default schema as **AirTraffic**.  
 3. Run the SQL script:  
-   - Open **`AirTraffic_Analysis.sql`**.  
+   - Open [`AirTraffic_Analysis.sql`](AirTrafficAnalysis.sql).  
    - Execute queries section by section (Q1–Q5).  
-4. Review comments and insights in the SQL file or `Results_Summary.md`.  
+4. Review comments and insights in the SQL file or [`Results_Summary.md`](ResultsSummary.md).  
 
 ---
 
@@ -107,5 +107,3 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 👤 Author
 **Anish Karnik**  
-- Process Engineer | Data Science | Cleantech & Finance Enthusiast  
-- 🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/YourUsername)
