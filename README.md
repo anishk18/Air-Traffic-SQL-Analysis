@@ -19,7 +19,7 @@ AirTraffic-SQL-Analysis/
 - [README.md](README.md) # Project documentation (this file)
 - [Results_Summary.md](ResultsSummary.md) # Key business insights 
 -  [AirTraffic_ERD.png](ERD.md) # Database schema diagram 
-- 
+
 
 
 
