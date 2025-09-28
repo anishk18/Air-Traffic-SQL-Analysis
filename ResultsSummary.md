@@ -125,8 +125,9 @@ Most flights delayed: Atlanta (191K)
 
 Worst avg delay: Newark Liberty (15.7 mins)
 
-Top 10 Worst Morning Delay Airports:
-Newark, San Francisco, JFK (NYC), DFW, Chicago O’Hare, Philadelphia, LaGuardia, Miami, Seattle, Charlotte.
+Top 10 Worst Morning Delay Airports:Newark, San Francisco, JFK (NYC), DFW, Chicago O’Hare, Philadelphia, LaGuardia, Miami, Seattle, Charlotte.
+
+
 ---
 
   

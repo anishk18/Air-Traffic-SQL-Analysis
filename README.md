@@ -10,17 +10,16 @@ The goal is twofold:
 1. Provide **business insights** into airline performance, cancellations, costs, and airport operations.
 2. Demonstrate **SQL expertise** with complex queries, aggregations, joins, and optimizations.
 
-Data was sourced from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/) (cleaned dataset provided by BrainStation).
+Data was sourced from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/).
 
 ---
 
 ## 📂 Project Structure
 AirTraffic-SQL-Analysis/
-├── [AirTraffic_Analysis](Anish_Karnik_Unit1Deliverable.sql).sql # Fully commented SQL script (main deliverable)
-├── README.md # Project documentation (this file)
-├── [Results_Summary.md](ResultsSummary.md) # Key business insights 
-├── images/ # Visuals & charts
-└── AirTraffic_ERD.png # Database schema diagram 
+- [SQL file](AirTrafficAnalysis.sql) # Fully commented SQL script (main deliverable)
+- [README.md](README.md) # Project documentation (this file)
+- [Results_Summary.md](ResultsSummary.md) # Key business insights 
+-  AirTraffic_ERD.png # Database schema diagram 
 
 
 
